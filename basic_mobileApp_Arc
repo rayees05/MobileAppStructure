@@ -1,0 +1,35 @@
+src
+  - api
+    - api.ts
+    - services.ts
+  - assets
+    - fonts
+    - images
+    - icons
+  - components
+    - custom Components
+  - constants
+    - colours
+    - other constant variables
+  - hooks
+    - custom hooks
+  - navigations
+    - bottomtab naviagtion
+    - stack navigation or index
+    - styles.ts
+  - redux
+    - stores
+    - slices 
+    - action or reducers
+  - screens
+    - our screens
+  - styles
+    - common styles
+  - utils
+    - enum 
+    - permissions and etc
+AppContainer #if needed
+
+
+
+## basic react native project folder structure which i followed
